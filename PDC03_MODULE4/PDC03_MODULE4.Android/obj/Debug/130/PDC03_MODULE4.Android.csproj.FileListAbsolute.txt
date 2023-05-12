@@ -631,3 +631,8 @@ C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj
 C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\android\src\mono\JavaInteropTypeManager.java
+C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\android\marshal_methods.arm64-v8a.o
+C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\android\marshal_methods.armeabi-v7a.o
+C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\android\marshal_methods.x86.o
+C:\Users\User\source\repos\PDC03_MODULE4\PDC03_MODULE4\PDC03_MODULE4.Android\obj\Debug\130\android\marshal_methods.x86_64.o

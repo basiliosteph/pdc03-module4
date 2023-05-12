@@ -7,7 +7,10 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Button Text="Activity01-Listview" Clicked="OpenActivity01"></Button>
-        <Button Text="Activity02-ListviewBinded" Clicked="OpenActivity02"></Button>
+        <Button Text="Activity01 - Listview" Clicked="OpenActivity01"></Button>
+        <Button Text="Activity02 - Listview Binded" Clicked="OpenActivity02"></Button>
+        <Button Text="Activty03 - Navigation" Clicked="OpenActivity03"></Button>
+        <Button Text="Activty04 - Carousel" Clicked="OpenActivity04"></Button>
+        <Button Text="Activty05 - Listview Pass Data" Clicked="OpenActivity05"></Button>
     </StackLayout>
 </ContentPage>
